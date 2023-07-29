@@ -1,2 +1,2 @@
 this is samplefile2.txt
-changes are done
+changes are being done
