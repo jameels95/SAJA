@@ -1,2 +1,7 @@
 this is samplefile.txt
+
 Some changes are being done
+
+some changes
+
+this is comparision lecture

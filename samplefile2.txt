@@ -1,1 +1,2 @@
 this is samplefile2.txt
+changes are being donethis is comparision lecture and some changes
